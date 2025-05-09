@@ -2,7 +2,7 @@
     "rewrites": [
       {
         "source": "/(.*)",
-        "destination": "/"
+        "destination": "/stats-preview-card-component-main/$1"
       }
     ]
-  }
+}
